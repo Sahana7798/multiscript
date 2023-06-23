@@ -8,7 +8,7 @@ pipeline{
             }
             stage ('stage-2') {
             steps {
-               echo 'multibranch pipeline'
+               echo 'multibranch pipeline 1'
                }
                }
              }
